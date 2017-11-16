@@ -1,0 +1,2 @@
+# cppmake
+c++ template generator
