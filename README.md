@@ -1,2 +1,2 @@
 # cppmake
-c++ template generator
+C++ template generator
