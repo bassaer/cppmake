@@ -7,6 +7,7 @@
 *.o
 *.obj
 bin/
+*.tar.gz
 
 # Precompiled Headers
 *.gch
